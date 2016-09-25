@@ -24,6 +24,7 @@ namespace LocalDB
             base.OnCreate(bundle);
 
             // Set our view from the "main" layout resource
+            // testiranje
             SetContentView(Resource.Layout.Main);
             db = new DataBase();
             db.createDataBase();
