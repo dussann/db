@@ -17,7 +17,7 @@ namespace SQLiteSample.Droid
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
-
+            //proba
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 			global::Acr.UserDialogs.UserDialogs.Init (this);
 
