@@ -25,6 +25,7 @@ namespace LocalDB
 
             // Set our view from the "main" layout resource
             // testiranje
+            //evo je promena
             SetContentView(Resource.Layout.Main);
             db = new DataBase();
             db.createDataBase();
